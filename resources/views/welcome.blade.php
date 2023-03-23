@@ -31,6 +31,7 @@
 
     <style>
     /* Añade estos estilos a tu archivo CSS personalizado */
+
     .img-fluid {
         border-radius: 5px;
         box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
@@ -41,6 +42,20 @@
         transform: scale(1.05);
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     }
+
+    /*
+    @media (max-width: 390px) {
+  .card img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 391px) and (max-width: 844px) {
+  .card img {
+    max-width: 80%;
+  }
+}
+*/
     </style>
 
     <!-- =======================================================
@@ -211,7 +226,61 @@
         </section><!-- End Services Section -->
 
 
+
         <!-- ======= Why Us Section ======= -->
+
+        <section id="why-us" class="why-us bg-dark">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Panchimalco </h2>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <div class="card">
+                            <img class="card-img-top" src="img/slide/panchimalco-1.jpg" alt="Card image cap">
+                            <div class="card-body">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-8 text-white">
+                        <p>Panchimalco es un pequeño pueblo pintoresco ubicado en el departamento de San Salvador en El
+                            Salvador. Este pueblo es conocido por su rica cultura y su patrimonio histórico, que ha sido
+                            preservado durante siglos.
+                            <br> <br>
+                            Uno de los aspectos más destacados de Panchimalco es su arquitectura colonial española, que
+                            se puede ver en las hermosas iglesias y edificios históricos que todavía se encuentran en el
+                            pueblo. La iglesia principal, por ejemplo, es una hermosa estructura de estilo colonial que
+                            data del siglo XVIII.
+                            <br> <br>
+                            Panchimalco también es conocido por su arte y artesanía. Los residentes locales son famosos
+                            por sus habilidades en la elaboración de máscaras y textiles, y los turistas pueden ver
+                            estas habilidades en acción en el pueblo. Los visitantes también pueden comprar algunos de
+                            estos productos, incluyendo textiles, artesanías de madera y cerámica.
+                            <br><br>
+                            Otro punto de interés en Panchimalco es el Mercado de Artesanías, un lugar donde los
+                            visitantes pueden comprar artesanías auténticas y otros productos locales. Los vendedores
+                            locales también ofrecen una amplia variedad de alimentos y bebidas, incluyendo deliciosos
+                            platillos típicos salvadoreños como las pupusas.
+                            <br>
+                            <br>
+                            Para aquellos interesados en la historia, Panchimalco también tiene un museo arqueológico
+                            que muestra artefactos precolombinos y otros objetos históricos relacionados con la cultura
+                            indígena de la región.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ======= Why Us Section ======= -->
+
+
+
+
+
+
+        <!-- ======= Why Us Section =======
         <section id="why-us" class="why-us">
             <div class="container">
 
@@ -239,9 +308,8 @@
                 </div>
 
             </div>
-        </section><!-- End Why Us Section -->
-
-
+        </section> -->
+        <!-- End Why Us Section -->
 
 
 
