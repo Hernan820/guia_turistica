@@ -276,88 +276,57 @@
         <!-- ======= Why Us Section ======= -->
 
 
-
-
-
-
-        <!-- ======= Why Us Section =======
-        <section id="why-us" class="why-us">
-            <div class="container">
-
-                <div class="section-title">
-                    <h2>Panchimalco </h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea.</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-3">
-                                <img src="img/slide/panchimalco-1.jpg" class="img-fluid m-3" alt="Imagen">
-                            </div>
-                            <br>
-                            <div class="col-md-9">
-                                <h2>Título de la sección</h2>
-                                <p>Información sobre la sección.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </section> -->
-        <!-- End Why Us Section -->
-
-
-
-
         <!-- ======= Why Us Section ======= -->
         <section id="why-us" class="why-us">
             <div class="container">
 
                 <div class="section-title">
-                    <h2>Why Us</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <h2>Lugares representativos de Panchimalco</h2>
                 </div>
 
+                
                 <div class="row">
 
-                    <div class="col-lg-4">
-                        <div class="box">
-                            <span>01</span>
-                            <h4>Lorem Ipsum</h4>
-                            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero
-                                placeat</p>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img class="card-img-top" src="img/slide/panchimalco-1.jpg" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Iglesia Colonial</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                        of the card's content.</p>
+                                    
+                                </div>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0">
-                        <div class="box">
-                            <span>02</span>
-                            <h4>Repellat Nihil</h4>
-                            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire
-                                leno para dest</p>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img class="card-img-top" src="img/slide/panchimalco-1.jpg" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Mirador de planes de Renderos</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                        of the card's content.</p>
+                                    
+                                </div>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0">
-                        <div class="box">
-                            <span>03</span>
-                            <h4> Ad ad velit qui</h4>
-                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam
-                                quis</p>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img class="card-img-top" src="img/slide/panchimalco-1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Puerta del Diablo</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            
                         </div>
-                    </div>
-
+                            </div>
+                        </div>
+                    
                 </div>
 
             </div>
-        </section><!-- End Why Us Section -->
+        </section>
+        
+        <!-- End Why Us Section -->
 
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
@@ -523,7 +492,7 @@
             </div>
         </section><!-- End Portfolio Section -->
 
-        <!-- ======= Team Section ======= -->
+        <!-- ======= Team Section =======
         <section id="team" class="team">
             <div class="container">
 
@@ -611,7 +580,9 @@
                 </div>
 
             </div>
-        </section><!-- End Team Section -->
+        </section>
+         -->
+        <!-- End Team Section -->
 
         <!-- ======= Pricing Section ======= 
     <section id="pricing" class="pricing">
